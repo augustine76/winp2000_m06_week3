@@ -1,6 +1,4 @@
-## README.md File Structure
-
-### Learning About Linux
+## Learning About Linux
 
 #### Introduction
 
